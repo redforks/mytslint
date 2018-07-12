@@ -6,6 +6,7 @@
     "class-name": true,
     "arrow-parens": false,
     "interface-name": false,
+    "max-classes-per-file": false,
     "comment-format": [
       true,
       "check-space"
