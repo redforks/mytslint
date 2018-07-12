@@ -5,6 +5,7 @@
     "callable-types": true,
     "class-name": true,
     "arrow-parens": false,
+    "interface-name": false,
     "comment-format": [
       true,
       "check-space"
