@@ -9,10 +9,7 @@
     "strictNullChecks": true,
     "strictPropertyInitialization": true,
     "downlevelIteration": true,
-    "lib": [
-      "es2016",
-      "dom"
-    ],
+    "lib": ["es2016", "dom"],
     "importHelpers": true,
     "noImplicitAny": true,
     "noImplicitReturns": true,
@@ -20,5 +17,7 @@
     "removeComments": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true
-  }
+  },
+  "exclude": ["src/**/*.test.ts"],
+  "include": ["src/**/*.ts"]
 }
