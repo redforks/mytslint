@@ -1,6 +1,6 @@
 {
   "name": "mytslint",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "my tslint configuration",
   "main": "tslint.json",
   "author": "redforks@gmail.com",
